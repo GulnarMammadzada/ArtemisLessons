@@ -82,3 +82,4 @@
 #     print("Sizin baliniz 5den yuxaridir")
 # else:
 #     print("Sizin baliniz asaghidir")
+
